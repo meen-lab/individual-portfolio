@@ -1,10 +1,10 @@
-# Portfolio Blog — Yasmeen Halema Binti Rekman
+# Portfolio Website — Yasmeen Halema Binti Rekman
 
 ## Project Overview
 
-This project is a personal portfolio and blog website developed as part of the **CSD34203 Special Topics in Software Development** individual assignment.
+This repository contains a personal portfolio website built with HTML, CSS, and JavaScript. The site showcases Yasmeen's technical skills, featured project work, professional background, and contact details in a clean, responsive design.
 
-The website serves as a digital portfolio that showcases my educational background, technical skills, software development projects, achievements, and personal experiences throughout my journey as a Computer Science (Software Development) student.
+The goal is to present a polished developer portfolio with strong readability, accessible styling, dark mode support, and mobile-friendly navigation.
 
 ---
 
@@ -19,125 +19,86 @@ The website serves as a digital portfolio that showcases my educational backgrou
 
 ## Objectives
 
-* Demonstrate understanding of web development fundamentals.
-* Showcase personal achievements and software projects.
-* Present technical skills and educational background professionally.
-* Build and manage a project using GitHub version control.
+* Showcase web development skills using a modern portfolio layout.
+* Present technical skills and project experience clearly.
+* Provide a mobile-friendly and accessible user experience.
+* Demonstrate version control and project documentation using GitHub.
 
 ---
 
-## Features
+## Pages
 
 ### Home Page
 
 * Professional introduction section
-* Profile image
-* Resume download button
-* Skills overview
+* Profile image and resume call-to-action
+* Technical skills overview
 * Featured project showcase
 
 ### About Page
 
-* Personal background
-* Education history
-* Technical skills
-* Career interests
+* Personal background and education
+* Technical skill sets
+* Career interests and motivation
 
-### Experience & Achievements
+### Portfolio Highlights (Blog Page)
 
-* Academic and extracurricular achievements
-* SISWAGO Final Year Project overview
-* Participation in innovation and technology competitions
+* Achievement and portfolio cards
+* Project impact summaries
+* Leadership and technical contributions
 
 ### Contact Page
 
 * Contact information
 * Contact form with validation
+* Smooth scroll and quick-access features
 
-### Additional Features
+---
 
-* Responsive design
-* Mobile navigation menu
-* Dark mode toggle
-* Smooth scrolling
-* Scroll-to-top button
+## Key Features
+
+* Responsive desktop and mobile layout
+* Modern card-based portfolio sections
+* Dark mode toggle with persistence
+* Smooth scroll behavior and scroll-to-top button
+* Visual hierarchy with clear contrast and spacing
 
 ---
 
 ## Technologies Used
 
-### Frontend
-
 * HTML5
 * CSS3
 * JavaScript
-
-### Design & Development Tools
-
-* Visual Studio Code
-* Git & GitHub
-* Figma
-* Canva
-
----
-
-## Featured Projects
-
-### SISWAGO
-
-A student-focused e-hailing mobile application developed as a Final Year Project (FYP). The application helps students find affordable and safer transportation around campus.
-
-**Technologies:**
-
-* Ionic Angular
-* TypeScript
-* Firebase
-* Python
-* HTML
-* CSS
-
-### KLIK
-
-A web-based photo session booking system developed to simplify photography service reservations and management.
-
-**Technologies:**
-
-* HTML
-* CSS
-* JavaScript
-* MySQL
 
 ---
 
 ## Folder Structure
 
 ```text
-portfolio-blog/
-│
+.
 ├── index.html
 ├── about.html
 ├── blog.html
 ├── contact.html
-│
 ├── css/
 │   └── style.css
-│
 ├── js/
 │   └── script.js
-│
 ├── assets/
 │   ├── profile.jpg
 │   ├── resume.pdf
 │   └── screenshots/
-│
 └── README.md
 ```
+
+---
 
 ## How to Run
 
 1. Clone or download this repository.
 2. Open the project folder in Visual Studio Code.
-3. Launch `index.html` using Live Server or any web browser.
+3. Open `index.html` in a browser or use Live Server.
 
 Alternative:
 
@@ -145,7 +106,7 @@ Alternative:
 python -m http.server 8000
 ```
 
-Open:
+Then visit:
 
 ```text
 http://localhost:8000
@@ -155,37 +116,13 @@ http://localhost:8000
 
 ## Screenshots
 
-### Home Page
-
-![Home](assets/screenshots/home1.png)
-
-### About Page
-
-![About](assets/screenshots/about1.png)
-
-### Experience & Achievements
-
-![Blog](assets/screenshots/blog.png)
-
-### Contact Page
-
-![Contact](assets/screenshots/contact.png)
+Screenshots are included in `assets/screenshots/` and show the Home, About, Portfolio Highlights, and Contact pages.
 
 ---
 
-## GitHub Portfolio Assignment
+## Notes
 
-This project was created to fulfill the requirements of the GitHub Portfolio (Personal Blog Page) assignment for:
-
-**Course:** CSD34203 Special Topics in Software Development
-
-The project demonstrates:
-
-* Web development skills
-* Portfolio presentation
-* GitHub version control usage
-* Project documentation practices
-* Entrepreneurial and professional development skills
+The site is designed for portfolio presentation and educational use. It demonstrates front-end development practices, responsive design, and clean UI structure.
 
 ---
 
