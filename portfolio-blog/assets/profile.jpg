@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="600" viewBox="0 0 600 600">
+  <rect width="100%" height="100%" fill="#102542" />
+  <g fill="#f1f7ed" font-family="Arial, Helvetica, sans-serif" font-size="36" text-anchor="middle">
+    <text x="50%" y="48%">Yasmeen</text>
+    <text x="50%" y="58%" font-size="20">Profile</text>
+  </g>
+</svg>
